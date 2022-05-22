@@ -1,7 +1,7 @@
 import { Biglogo, Content, Homecontainer, Imagecontainer, Linkaa, Linkcontent, Linklii, Linkp, Thanks } from "../styles/Home";
 import logoPic from "../../public/avator1.jpg"
 import Image from "next/image"
-import { Allanh1 } from "../styles/Allan";
+
 
 export default function Homepage(){
    return(
@@ -22,7 +22,6 @@ export default function Homepage(){
              <Imagecontainer>
                <Image src={logoPic} alt="Picture" />            </Imagecontainer>  
        </Homecontainer>
-       <Allanh1>allan is a bad boy</Allanh1>
        </>
    )
 }
