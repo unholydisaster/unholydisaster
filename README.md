@@ -1,7 +1,6 @@
 # Welcome!
 
 ## Introduction
-  <img src="https://avatars.githubusercontent.com/u/60873440?v=4" />
 <h4>👋 Hi, I’m Eli musa, here you will get to know my intrests as a software engineer. Bolow is my set of programming languages analysis and author pages. </h4>
 
 ## Languages:
