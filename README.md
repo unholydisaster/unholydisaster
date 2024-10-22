@@ -1,7 +1,7 @@
 # Welcome!
 
 ## Introduction
-<h4>👋 Hi, I’m Eli musa, here you will get to know my intrests as a software engineer. Bolow is my set of programming languages analysis and author pages. </h4>
+<h4>👋 Hi, I’m Eli musa, here you will get to know my intrests as a Software Engineer. Bolow is my set of programming languages analysis and author pages. </h4>
 
 ## Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
